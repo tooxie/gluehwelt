@@ -1,4 +1,4 @@
-gluehwelt
-=========
+Glühwelt
+========
 
-A React implementation of Die Welt
+A [React](http://facebook.github.io/react/) implementation of [Die Welt's mobile website](http://m.welt.de/).
